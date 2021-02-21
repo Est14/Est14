@@ -30,7 +30,7 @@
     <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=Est14&show_icons=true&hide_border=true" />
     <img align="center"
-        src="https://jf-gh-stats.vercel.app/api/top-langs/?username=Est14&layout=compact&hide_border=true&langs_count=7" />
+        src="https://jf-gh-stats.vercel.app/api/top-langs/?username=Est14&layout=compact&hide_border=true&langs_count=8" />
 </div>
 &nbsp;
 <!--
